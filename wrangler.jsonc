@@ -26,3 +26,14 @@
 		"enabled": true
 	}
 }
+
+
+{
+  "name": "dataforseo-mcp-worker",
+  "main": "build/index-worker.js",
+  "compatibility_date": "2025-07-10",
+  "compatibility_flags": ["nodejs_compat"],
+  "vars": {
+    "ENABLED_MODULES": "SERP,KEYWORDS_DATA,ONPAGE,DATAFORSEO_LABS"
+  }
+}
