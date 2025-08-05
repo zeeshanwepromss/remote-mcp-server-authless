@@ -7,8 +7,8 @@
   "compatibility_flags": ["nodejs_compat"],
   "minify": true,
   "vars": {
-    "DATAFORSEO_USERNAME": "YOUR_LOGIN",
-    "DATAFORSEO_PASSWORD": "YOUR_PASSWORD",
+    "DATAFORSEO_USERNAME": "hello@weproms.co.uk",
+    "DATAFORSEO_PASSWORD": "725c55a10b3ba6b6",
     "ENABLED_MODULES": "SERP,KEYWORDS_DATA,ONPAGE,DATAFORSEO_LABS",
     "DATAFORSEO_FULL_RESPONSE": "false"
   },
